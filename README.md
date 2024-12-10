@@ -1,4 +1,4 @@
-# Dussehra_Data_Analysis_Project
+# Diwali_Data_Analysis_Project
 
 1. Performed data cleaning and manipulation
 2. Performed Exploratory data Analysis (EDA) using pandas, matplotlib, seaborn libraries
